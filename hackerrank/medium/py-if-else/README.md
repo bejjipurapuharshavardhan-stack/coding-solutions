@@ -32,7 +32,7 @@ Print `Weird` if the number is weird.  Otherwise, print `Not Weird`.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-06T11:01:48.921Z  
+**Submitted:** 2026-09-06T11:01:58.038Z  
 
 ```py
 #!/bin/python3
