@@ -53,7 +53,7 @@ Print the result as described above.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-11T19:35:36.868Z  
+**Submitted:** 2026-09-11T19:36:55.888Z  
 
 ```py
 first = int(input())
