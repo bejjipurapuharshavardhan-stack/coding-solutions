@@ -1,0 +1,6 @@
+first = int(input())
+second = int(input())
+res = divmod(first,second)
+print(first//second)
+print(first % second)
+print(res)
