@@ -1,0 +1,70 @@
+# Mod Divmod
+
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
+
+## Problem
+
+One of the built-in functions of Python is _divmod_, which takes two arguments $a$ and $b$ and returns a tuple containing the quotient of $a/b$ first and then the remainder $a%b$.  
+
+For example:  
+
+	>>> print divmod(177,10)
+    (17, 7)
+    
+Here, the integer division is `177/10 => 17` and the modulo operator is `177%10 => 7`.
+    
+**Task**  
+Read in two integers, $a$ and $b$, and print three lines.  
+The first line is the integer division $a//b$ (While using Python2 remember to import `division` from `__future__`).  
+The second line is the result of the modulo operator: $a\%b$.  
+The third line prints the *divmod* of $a$ and $b$.  
+
+**Input Format**  
+The first line contains the first integer, $a$, and the second line contains the second integer, $b$.   
+
+**Output Format**  
+Print the result as described above.  
+
+**Sample Input**  
+
+    177
+    10
+
+**Sample Output**  
+
+    17
+    7
+    (17, 7)
+    
+
+
+**Input Format**
+
+ 
+
+**Constraints**
+
+ 
+
+**Output Format**
+
+## Solution
+
+**Language:** Python  
+**Runtime:** N/A  
+**Memory:** N/A  
+**Submitted:** 2026-09-11T19:35:36.868Z  
+
+```py
+first = int(input())
+second = int(input())
+res = divmod(first,second)
+print(first//second)
+print(first % second)
+print(res)
+
+```
+
+---
+
+[View on HackerRank](https://www.hackerrank.com/challenges/python-mod-divmod/problem)
