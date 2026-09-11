@@ -73,7 +73,7 @@ $0 \lt N \le 100$
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-11T18:26:19.246Z  
+**Submitted:** 2026-09-11T18:26:33.741Z  
 
 ```py
 def average(array):
