@@ -27,14 +27,14 @@ Print the result of $hash(t)$.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-13T05:55:47.902Z  
+**Submitted:** 2026-09-13T05:58:31.565Z  
 
 ```py
 if __name__ == '__main__':
     n = int(raw_input())
     integer_list = map(int, raw_input().split())
     t = tuple(integer_list)
-    print hash(t)
+    print(hash(t))
 
 ```
 
