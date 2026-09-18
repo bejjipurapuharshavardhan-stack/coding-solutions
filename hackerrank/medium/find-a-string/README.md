@@ -60,7 +60,7 @@ Here, the range loops over $0$ to $4$. $5$ is excluded.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-18T13:34:12.527Z  
+**Submitted:** 2026-09-18T13:34:29.659Z  
 
 ```py
 import re
