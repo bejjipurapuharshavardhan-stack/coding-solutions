@@ -60,7 +60,7 @@ Output the total number of students who have _at least one_ subscription.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-24T06:57:29.689Z  
+**Submitted:** 2026-09-24T06:57:55.284Z  
 
 ```py
 num_student1 = int(input())
