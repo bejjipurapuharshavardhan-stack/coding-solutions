@@ -78,7 +78,7 @@ Output the sum of elements in set $A$.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-25T05:23:39.628Z  
+**Submitted:** 2026-09-25T05:23:55.099Z  
 
 ```py
 num_elements_A = int(input())
