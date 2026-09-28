@@ -53,7 +53,7 @@ Thus, the maximum depth is $1$.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-28T17:41:30.325Z  
+**Submitted:** 2026-09-28T17:41:46.127Z  
 
 ```py
 
