@@ -62,7 +62,7 @@ $0 < len(S) \leq 10^6$<br>
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-30T12:24:20.777Z  
+**Submitted:** 2026-09-30T12:24:29.641Z  
 
 ```py
 def minion_game(string):
